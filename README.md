@@ -1,5 +1,5 @@
-# Sample-RAT-Reverse-Shell-C-
-Sample RAT Reverse Shell C#
+# Sample RAT Reverse Shell C#
+Sample RAT Reverse Shell C# https://secrethackersite.blogspot.com
 
 # Screenshot
 
